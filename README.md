@@ -1,2 +1,11 @@
 # Elitea-Integration
-This repository is for testing Elitea integration with Github
+
+Playwright test automation for the EPAM scenario.
+
+## Run
+
+```bash
+npm install
+npx playwright install
+npm test
+```
